@@ -1,5 +1,5 @@
 {
-	"ImportPath": "quasar",
+	"ImportPath": "github.com/kir-dev/quasar",
 	"GoVersion": "go1.2",
 	"Packages": [
 		"./quasar-bot/"
